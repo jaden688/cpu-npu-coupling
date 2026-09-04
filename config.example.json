@@ -1,0 +1,14 @@
+{
+  "run_name": "trackA_gpu_squarewave",
+  "device": "dml",
+  "victim_core": 4,
+  "victim_matrix": 128,
+  "victim_inner": 8,
+  "load_dim": 1024,
+  "load_depth": 8,
+  "cycles": 20,
+  "on_s": 15,
+  "off_s": 15,
+  "sham": false,
+  "telemetry_interval_s": 1
+}

@@ -1,0 +1,18 @@
+# data & run artifacts
+data/runs/
+*.csv
+*.png
+*.onnx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+Thumbs.db
+Desktop.ini
+
+# unrelated nested project
+JL_Engine-SB.Omni - Copy/
